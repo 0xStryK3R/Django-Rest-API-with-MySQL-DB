@@ -38,7 +38,7 @@
     
 11. Run the project:
     ```console
-    python manage.py runserver 0.0.0.0:5000
+    python manage.py runserver
     ```    
 12. All Done!! [`Click Here`](http://localhost:8000/api/countries) or use Postman to interact with your app.
 
